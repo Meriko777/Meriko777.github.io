@@ -1,0 +1,215 @@
+body {
+	background-color:#ffd1d1;
+			
+	font-family: "Roboto", serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+	"wdth" 100;
+	}
+	h1,h2,h3,h4,h5,h6{
+	font-family: "Pacifico", serif;
+	font-weight: 400;
+	font-style: normal;
+	}
+	.experience {
+	display: grid;
+	font-family: "Pacifico", serif;
+	font-style: normal;
+	text-align: center;
+	background-color: #faebeb;
+	padding-top: auto;
+	font-size: 35px;
+	}
+	}	
+	img {
+		width: 300px;
+	}
+	.Meri_model {
+		width: 630px;
+	}
+	.Meriko {
+		width: 345px;
+	}
+	.Meri {
+		width: 525px;
+	}
+	.Meri_armenia {
+		width: 500px;
+	}
+	.Meri_contact {
+		border-radius: 5px;
+		width: 525px;
+	}
+	.image-container {
+        position: relative;
+        width: 95%;
+		margin-left: 27px;
+    }
+    .image-container img {
+        width: 100%;
+        display: block;
+    }
+	p {
+		font-family: "Tinos", serif;
+		font-weight: 500;
+		font-style: italic;
+		font-size: 22px;
+		padding-right: 50px;
+		padding-left: 20px;
+		padding-top: 42px;
+		font-size: 30px;
+	}
+	.p1 {
+		padding-top: 10px;
+	}
+	.center {
+		text-align: center;	
+	}
+	#about .two-column {
+		padding-top: 1px;
+		padding-bottom: 1px;
+		padding-left: 15px;
+	} 
+    .text-overlay {
+        position: absolute;
+        top: 10px;
+        left: 570px;
+        color: rgba(255, 255, 255, 0.7); 
+        font-size: 25px;
+		background: rgba(0, 0, 0, 0.4); 
+        padding: 30px 30px;
+        font-weight: bold;
+		margin: 50px;	
+		border-radius: 30px;
+    }
+	.container {
+		width: 1100px;
+		margin-left: auto;
+		margin-right: auto;
+		margin: 0 auto;
+		background-color: #ffe1de;
+	}
+	.two-column {
+		display: grid;
+		grid-template-columns: 50% 50%;
+		padding: 10px;
+		background-color: #faebeb;
+	}
+	.two-column div {
+		margin-right: 5px;
+		margin-left: 5px;
+		background-color: #faebeb;
+	}
+	.three-column {
+		display: grid;
+		grid-template-columns: 33% 33% 33%;
+		padding: 5px;
+		margin-left: 8px;
+		background-color: #faebeb;
+	}
+	#portfolio .three-column {
+		background-color: #faebeb;
+	} 	
+	.three-column div {
+		background-color: #faebeb;
+		margin-right: 5px;
+		margin-left: 5px;
+	}
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #2e1528;
+	}
+	li {
+		float: left;
+	}
+	li a {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 50px;
+		text-decoration: none;
+	}
+	li a:hover {
+		background-color: pink;
+	}
+    .contact-form {
+        background: white;
+        padding: 45px;
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    .contact-form h2 {
+        text-align: center;
+	}
+    .contact-form label {
+        font-weight: bold;
+    }
+    .contact-form input, 
+    .contact-form textarea {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        margin-bottom: 25px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    .contact-form button {
+        width: 100%;
+        background-color: #ffe1de;
+        color: black;
+        padding: 22px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .contact-form button:hover {
+        background-color: #fa8e8e;
+	}
+	.container1 {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+	}
+	.button {
+		border: 1px solid black;
+		padding: 25px 25px;
+		margin-top: 30px;
+		margin-bottom: 10px;
+		box-sizing: border-box;
+		background-color: #ffcccb;
+		color: black;
+		font-weight: bold;
+		font-size: 22px;
+		border-radius: 20px;
+		cursor: pointer;
+	}
+	.button:hover {
+    background-color: #ff9e9b;
+	}
+	.instagram {
+		width:50px;
+		height: auto;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	.facebook {
+		width:50px;
+		height: auto;
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	.whatsapp {
+		width: 50px;
+		height: auto;
+		margin-left: 5px;
+		margin-right: 5px;
+	}	
+	footer {
+        text-align: center;
+        padding: 20px;
+	}
